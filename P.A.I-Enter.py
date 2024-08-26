@@ -9,6 +9,11 @@ import datetime
 from googletrans import Translator
 from plyer import notification
 import time
+# Use this 
+# pip install plyer
+# pip install googletrans==4.0.0-rc1
+# pip install requests
+
 
 # Directory for storing passwords and locations
 PASSWORDS_DIR = 'D:\\Automate\\Password'
